@@ -1,0 +1,13 @@
+{
+  "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+  ],
+  "target": {
+      "namespace": "android_app",
+      "site": "https://sugary-hickory-phone.glitch.me",
+      "sha256_cert_fingerprints": [
+          "C9:5B:18:5F:A0:E5:93:44:A3:20:B1:D7:7A:F0:C7:76:71:C2:47:D7:9B:97:B6:C0:1B:21:A7:B9:E4:7D:D6:A3"
+      ]
+  }
+}
